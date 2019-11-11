@@ -42,7 +42,7 @@
  * INCLUDES
  ******************************************************************************
  */
-#include "rfal_analogConfig.h"
+#include "rfal_AnalogConfig.h"
 #include "st25r3911_com.h"
 
 /*

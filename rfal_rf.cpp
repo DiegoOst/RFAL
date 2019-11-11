@@ -48,7 +48,7 @@
 
 #include <rfal_rf.h>
 #include "utils.h"
-#include "st25r3911.h"
+#include "ST25R3911.h"
 #include "st25r3911_com.h"
 #include "st25r3911_interrupt.h"
 #include "rfal_analogConfig.h"
