@@ -40,7 +40,7 @@
  ******************************************************************************
  */
 #include "rfal_analogConfigTbl.h"
-#include "rfal_analogConfig.h"
+#include "rfal_AnalogConfig.h"
 #include "rfal_chip.h"
 #include "st_errno.h"
 #include "platform1.h"

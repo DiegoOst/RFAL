@@ -51,7 +51,7 @@
 #include "ST25R3911.h"
 #include "st25r3911_com.h"
 #include "st25r3911_interrupt.h"
-#include "rfal_analogConfig.h"
+#include "rfal_AnalogConfig.h"
 #include "rfal_iso15693_2.h"
 #include "rfal_chip.h"
 #include "platform1.h"
